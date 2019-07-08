@@ -270,3 +270,8 @@ obj/x64/Debug/WCFHostWPFAppTest_MarkupCompile.cache
 obj/x64/Debug/WCFHostWPFAppTest_MarkupCompile.i.cache
 obj/x64/Debug/WCFHostWPFAppTest_MarkupCompile.i.lref
 obj/x64/Debug/WCFHostWPFAppTest_MarkupCompile.lref
+Bin/ClassLibrary1.dll
+Bin/ClassLibrary1.pdb
+Bin/ConsoleApp1.exe
+Bin/ConsoleApp1.pdb
+Bin/ServiceContract.dll
