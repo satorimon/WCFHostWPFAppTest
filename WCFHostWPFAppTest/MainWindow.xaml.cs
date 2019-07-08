@@ -1,4 +1,4 @@
-﻿using HelloWorlddServiceContract;
+﻿using HelloWorldServiceContract;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;

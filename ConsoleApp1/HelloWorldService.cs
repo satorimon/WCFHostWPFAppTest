@@ -1,5 +1,5 @@
 ﻿using System;
-using HelloWorlddServiceContract;
+using HelloWorldServiceContract;
 
 namespace ConsoleApp1
 {
