@@ -1,0 +1,15 @@
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\bin\Debug\WCFHostWPFAppTest.exe.config
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\bin\Debug\WCFHostWPFAppTest.exe
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\bin\Debug\WCFHostWPFAppTest.pdb
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\WCFHostWPFAppTest.csprojAssemblyReference.cache
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\MainWindow.g.cs
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\App.g.cs
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\WCFHostWPFAppTest_MarkupCompile.cache
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\WCFHostWPFAppTest_MarkupCompile.lref
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\MainWindow.baml
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\WCFHostWPFAppTest.g.resources
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\WCFHostWPFAppTest.Properties.Resources.resources
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\WCFHostWPFAppTest.csproj.GenerateResource.cache
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\WCFHostWPFAppTest.csproj.CoreCompileInputs.cache
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\WCFHostWPFAppTest.exe
+D:\Users\Satoru\source\repos\WCFHostWPFAppTest\WCFHostWPFAppTest\obj\Debug\WCFHostWPFAppTest.pdb
