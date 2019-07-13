@@ -30,10 +30,10 @@ namespace WCFHostWPFAppTest
 
             var serviceProcess = Process.Start("ConsoleApp1.exe");
 
-            EndpointAddress address = new EndpointAddress("http://localhost:8808/service");
-            WSHttpBinding binding = new WSHttpBinding();
-            ChannelFactory<IHelloWorldService> factory = new ChannelFactory<IHelloWorldService>(binding, address);
-            IHelloWorldService channel = factory.CreateChannel();
+            var address = new EndpointAddress("net.tcp://localhost:8808/service");
+            var binding = new NetTcpBinding();
+            var factory = new ChannelFactory<IHelloWorldService>(binding, address);
+            var channel = factory.CreateChannel();
 
             this.Loaded += (_, __) =>
             {
